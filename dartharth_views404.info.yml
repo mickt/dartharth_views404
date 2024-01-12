@@ -1,0 +1,8 @@
+name: Views404 v9
+description: 'Fix 404 for Views in Drupal 9'
+type: module
+version: 1.0
+core_version_requirement: ^9 || ^10
+package: DARTHARTH
+dependencies:
+  - drupal:views
